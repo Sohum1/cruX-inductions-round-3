@@ -22,6 +22,6 @@ demo output on running pandemic_simulation_round3.py: https://www.youtube.com/wa
 Note: Graphs created in the previous simulation from past run data and visualisations comparing different measures are not a part of this program and can be found in the previous repository.
 
 Libraries used:
-random
-numpy
-matplotlib
+1) random
+2) numpy
+3) matplotlib
