@@ -6,6 +6,7 @@ Hello!
 My project is a pandemic simulation that illustrates how diseases spread across populations. It also shows how various measures like masks, lockdowns, and vaccinations affect this spread. This simulation is an agent-based model created using Object-Oriented Programming in Python.
 
 Tasks completed:
+
 Task 1) Added path-following to the simulation: Earlier, people in the simulation would randomly be assigned one place each day. Now each person has a fixed path it takes every day, which includes multiple locations. I did this by giving an additional attribute to each person object, a list containing randomly selected locations for the person to go everyday. This path remains fixed for a person for the entire simulation, except for weekends (as described in the next task).
 
 Task 2) Added a weekly routine: Each person's path varies for weekdays and weekends; a person takes a fixed route every weekday and a different fixed route every weekend. The path taken by each person on weekends is stored in a different attribute of the object, created similarly to the weekday path.
