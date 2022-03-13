@@ -1,6 +1,4 @@
 # cruX-inductions-round-3!
-[Uploading FightingCovidDataScience.jpg…]()
-
 
 link to original github repository: https://github.com/Sohum1/cruX_inductions
 
@@ -22,3 +20,5 @@ Task 6) GUI (partial): Added an animation depicting locations, uninfected people
 demo output on running pandemic_simulation_round3.py: https://www.youtube.com/watch?v=7N6B7gSw1sA
 
 Note: Graphs created in the previous simulation from past run data and visualisations comparing different measures are not a part of this program and can be found in the previous repository.
+
+Libraries used:
