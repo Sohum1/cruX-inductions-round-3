@@ -1,19 +1,7 @@
-import csv
-import math
 import random
 import numpy as np
-import pandas as pd
-# import seaborn as sns
-# import plotly.express as px
 import matplotlib.pyplot as plt
-# import plotly.graph_objects as go
-import matplotlib.patches as mpatches
-# from icecream import ic
-from matplotlib import rc
 from random import shuffle
-from IPython.display import HTML
-# from bubbly.bubbly import bubbleplot
-# from plotly.offline import init_notebook_mode, iplot
 
 """Initial Conditions"""
 
