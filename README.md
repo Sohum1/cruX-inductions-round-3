@@ -17,5 +17,6 @@ Task 5) Allowing outbreaks: Now, instead of randomly infecting people to introdu
 
 Task 6) GUI (partial): Added an animation depicting locations, uninfected people, infected people, etc. It was done by animating a scatterplot in matplotlib.
 
+demo output on running pandemic_simulation_round3.py: https://www.youtube.com/watch?v=7N6B7gSw1sA
 
 Note: Graphs created in the previous simulation from past run data and visualisations comparing different measures are not a part of this program and can be found in the previous repository.
