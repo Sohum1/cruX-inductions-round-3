@@ -3,12 +3,12 @@ import math
 import random
 import numpy as np
 import pandas as pd
-import seaborn as sns
+# import seaborn as sns
 # import plotly.express as px
 import matplotlib.pyplot as plt
 # import plotly.graph_objects as go
 import matplotlib.patches as mpatches
-from icecream import ic
+# from icecream import ic
 from matplotlib import rc
 from random import shuffle
 from IPython.display import HTML
@@ -364,7 +364,6 @@ for place in places:
     if v == 3:
       break
 
-ic.disable()
 for i in range(num_of_generations): # Each iteration is one generation
 
   # Set path for people based on whether it is a weekday or a weekend
@@ -402,8 +401,6 @@ for i in range(num_of_generations): # Each iteration is one generation
 
 
   reset_values()
-  ic("Generation", i+1, "over")
-  ic('\n\n')
   if change_lockdown_on:
     if infected_people/total_population >= 0.20:
       lockdown_intensity = 0.0
