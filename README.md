@@ -1,6 +1,7 @@
 # cruX-inductions-round-3!
 
 link to original github repository: https://github.com/Sohum1/cruX_inductions
+(demo output on running pandemic_simulation_round3.py: https://www.youtube.com/watch?v=7N6B7gSw1sA in the unlikely scenario the program doesn't run correctly on other machines)
 
 Hello!
 My project is a pandemic simulation that illustrates how diseases spread across populations. It also shows how various measures like masks, lockdowns, and vaccinations affect this spread. This simulation is an agent-based model created using Object-Oriented Programming in Python.
